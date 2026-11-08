@@ -1,0 +1,52 @@
+{
+  "model_type": "GradientBoostingClassifier",
+  "sample_size": 5000,
+  "test_size": 1000,
+  "base_activation_rate": 0.0736,
+  "roc_auc": 0.6527,
+  "pr_auc": 0.1197,
+  "precision_at_top_20_pct": 0.11,
+  "lift_top_decile": 1.9,
+  "top_predictive_factors": [
+    {
+      "feature": "num__monthly_telecom_spend_inr",
+      "importance": 0.23043571710138058
+    },
+    {
+      "feature": "num__employee_count",
+      "importance": 0.14503547548247497
+    },
+    {
+      "feature": "cat__segment_Micro retail & services",
+      "importance": 0.09555642571622985
+    },
+    {
+      "feature": "cat__lead_source_Referral",
+      "importance": 0.06056637652201731
+    },
+    {
+      "feature": "cat__has_gstin_Y",
+      "importance": 0.040893375657779986
+    },
+    {
+      "feature": "num__num_sites",
+      "importance": 0.03584821319279856
+    },
+    {
+      "feature": "num__num_products_interest",
+      "importance": 0.03034608408220379
+    },
+    {
+      "feature": "cat__lead_source_Inbound call",
+      "importance": 0.025543103135930303
+    },
+    {
+      "feature": "cat__city_tier_2",
+      "importance": 0.01936377392475074
+    },
+    {
+      "feature": "cat__has_gstin_N",
+      "importance": 0.018467963447078947
+    }
+  ]
+}

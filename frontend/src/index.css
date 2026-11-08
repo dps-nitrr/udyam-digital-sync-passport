@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Brand: Red & Graphite (Airtel-adjacent palette, clean text contrast) */
+  --brand: #B91C1C;          /* Deep rich red with 5.9:1 white contrast */
+  --brand-dark: #881337;     /* Darker hover state */
+  --brand-light: #FEE2E2;    /* Soft red tint for accents */
+
+  /* Graphite */
+  --graphite: #1E293B;       /* Deep slate/graphite */
+  --graphite-light: #64748B; /* Muted subtext */
+  --graphite-dark: #0F172A;  /* Heading text */
+
+  /* Surfaces */
+  --surface: #F8FAFC;        /* Clean light background */
+  --surface-card: #FFFFFF;   /* Pure white cards */
+  --surface-muted: #F1F5F9;  /* Divided sections */
+
+  /* State Tokens (Strictly distinct from brand red) */
+  --success: #15803D;        /* Forest green for pass */
+  --success-light: #DCFCE7;  /* Soft green pill background */
+  
+  --warn: #D97706;           /* Amber for soft review */
+  --warn-light: #FEF3C7;     /* Soft amber pill background */
+  
+  --danger: #7F1D1D;         /* Dark burgundy/wine "Needs attention", distinct tone */
+  --danger-light: #FEE2E2;   /* Soft danger pill */
+}
+
+body {
+  margin: 0;
+  background-color: #E2E8F0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: var(--graphite-dark);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom scrollbar for mobile frame */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 4px;
+}
