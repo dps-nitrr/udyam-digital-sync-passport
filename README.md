@@ -1,9 +1,21 @@
 # Sync Passport — GSTIN-First SMB Onboarding Prototype
 
-> **Accel YTL Hackathon Prototype**  
-> Mobile-first, GSTIN-first onboarding engine for Indian small-and-medium businesses (SMBs).  
-> **Brand Palette:** Red & Graphite (Airtel-adjacent theme with "Accel Business" text wordmark).  
-> **Compliance:** 100% DPDP Act 2023 compliant with cryptographic hash-chain consent ledger and zero image retention.
+> **Airtel SYNC Hackathon 2026 | Enterprise Track A: Project Udyam Digital**  
+> **Team:** divya_tushar — Divya Pratap Singh & Tushar Chaturvedi, National Institute of Technology (NIT) Raipur  
+> **Repository:** [https://github.com/dps-nitrr/udyam-digital-sync-passport](https://github.com/dps-nitrr/udyam-digital-sync-passport)  
+> **Compliance:** 100% DPDP Act 2023 compliant with cryptographic SHA-256 hash-chain consent ledger and zero image retention.
+
+---
+
+## 🏆 Official Competition Deliverables (Submission Index)
+
+| # | Deliverable | Location / Access Link |
+|---|---|---|
+| **1** | **3-Minute Video Walkthrough** | 🎥 **[Watch Demo Video on YouTube](https://youtu.be/YOUR_VIDEO_ID_HERE)** *(Replace with your unlisted YouTube / Drive link)* |
+| **2** | **Source Code Repository** | 💻 **[GitHub Repository (main branch)](https://github.com/dps-nitrr/udyam-digital-sync-passport)** |
+| **3** | **Solution Architecture Diagram** | 🏛️ **[docs/architecture.md](./docs/architecture.md)** *(Mermaid diagrams, data flows, and design rationale)* |
+| **4** | **Business Case Deck (7 Slides)** | 📊 **[divya_tushar_Sync_Submission_ALIGNED.pptx](./divya_tushar_Sync_Submission_ALIGNED.pptx)** *(Strict 16:9 canvas, KPI scorecards, zero text overflow)* |
+| **5** | **DPDP Act 2023 Privacy Note** | 🛡️ **[docs/privacy_note.md](./docs/privacy_note.md)** *(Section 6 notices, purpose limitation, and 30-min purge TTL)* |
 
 ---
 
