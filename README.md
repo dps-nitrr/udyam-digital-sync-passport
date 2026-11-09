@@ -11,7 +11,7 @@
 
 | # | Deliverable | Location / Access Link |
 |---|---|---|
-| **1** | **3-Minute Video Walkthrough** | 🎥 **[Watch Demo Video on YouTube](https://youtu.be/YOUR_VIDEO_ID_HERE)** *(Replace with your unlisted YouTube / Drive link)* |
+| **1** | **3-Minute Video Walkthrough** | 🎥 **[Watch Live Demo on YouTube](https://youtu.be/GSbkx6_qmAQ)** |
 | **2** | **Source Code Repository** | 💻 **[GitHub Repository (main branch)](https://github.com/dps-nitrr/udyam-digital-sync-passport)** |
 | **3** | **Solution Architecture Diagram** | 🏛️ **[docs/architecture.md](./docs/architecture.md)** *(Mermaid diagrams, data flows, and design rationale)* |
 | **4** | **Business Case Deck (7 Slides)** | 📊 **[divya_tushar_Sync_Submission_ALIGNED.pptx](./divya_tushar_Sync_Submission_ALIGNED.pptx)** *(Strict 16:9 canvas, KPI scorecards, zero text overflow)* |
